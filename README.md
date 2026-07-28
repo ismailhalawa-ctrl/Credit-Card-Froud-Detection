@@ -56,8 +56,8 @@ It combines **Random Under-Sampling** to balance class distribution, **StandardS
 
 1. **Clone the Repository**:
 ```bash
-git clone [https://github.com/ismailhalawa-ctrl/Credit-Card-Fraud-Detection.git](https://github.com/ismailhalawa-ctrl/Credit-Card-Fraud-Detection.git)
-cd Credit-Card-Fraud-Detection
+git clone https://github.com/ismailhalawa-ctrl/Credit-Card-Froud-Detection
+cd Credit-Card-Froud-Detection
 ```
 
 2. **Install Dependencies**:
